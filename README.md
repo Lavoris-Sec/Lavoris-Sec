@@ -52,13 +52,30 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
 
-## Проекты
+## Проекты и учебные материалы
 
-- **AI-Development** — нейросети, компьютерное зрение и автоматизация.
-- **microcontrollers** — проекты для микроконтроллеров и эксперименты
-  с безопасностью IoT.
-- **SecureData-Suite** — курсовой проект по информационной безопасности.
-- **utils** — небольшие инструменты и утилиты.
+### Разработка и информационная безопасность
+
+- **microcontrollers** — проекты для микроконтроллеров.
+- **SecureData_Suite** — курсовой проект по информационной безопасности.
+- **utils** — небольшие утилиты.
+
+### Искусственный интеллект
+
+- **AI-Emotion-Recognition** — распознавание эмоций по лицу с помощью
+  модели машинного обучения.
+- **AI-Items-Detector** — проект по обнаружению объектов.
+
+### Учёба
+
+- **PH1826** — работы и задания, выполненные во время обучения на курсах.
+- **seti** 🔒 — конспекты и технические паспорта лабораторных работ
+  по компьютерным сетям. Приватный репозиторий.
+
+### Другие проекты
+
+- **translate-ru-quintessential-quintuplets-memories-summer** —
+  проект перевода визуальной новеллы на русский язык.
 
 ^
 
