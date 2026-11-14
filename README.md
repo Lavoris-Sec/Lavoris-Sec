@@ -1,32 +1,52 @@
 # Lavoris-Sec
 
-### Cybersecurity Enthusiast & Hardware Researcher
-Специализируюсь на техническом обеспечении информационной безопасности.
+### Информационная безопасность · Embedded · Разработка
 
----
+Изучаю технические средства защиты информации и разрабатываю
+программные и аппаратные проекты: от микроконтроллеров и IoT
+до автоматизации и работы с нейросетями.
 
-### Направления исследований:
-* **Embedded Systems:** Проектирование и разработка систем на базе микроконтроллеров ESP32 (DevKit, S3 + CAM, C3), Raspberry Pi Pico / Pico W (RP2040) и Arduino Nano.
-* **AI & Software:** Python-разработка с использованием ИИ и глубоких языковых моделей.
-* **Low-level Dev:** Системное программирование на C++ (включая курсовые проекты).
+## Чем занимаюсь
 
----
+- **Информационная безопасность:** исследование технических средств
+  защиты и разработка проектов в области ИБ.
+- **Embedded и IoT:** проекты на ESP32, Raspberry Pi Pico и Arduino;
+  работа с периферией и камерой ESP32-S3.
+- **Разработка ПО:** приложения и утилиты на Python и C++.
+- **Нейросети и компьютерное зрение:** эксперименты с моделями
+  и инструментами машинного обучения.
 
-### 🛠️ Мой стек технологий:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+## Технологии
+
+**Языки и инструменты**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+**Микроконтроллеры**
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
+**Фреймворки и библиотеки**
 
-### Структура лаборатории:
-*  **AI-Development** - Проекты с нейросетями и автоматизация.
-*  **microcontrollers** - Код для микроконтроллеров и защиты IoT.
-*  **SecureData-Suite** - Курсовой проект.
-*  **utils** - Небольшие утилиты.
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge&logo=ultralytics&logoColor=white)
+
+## Проекты
+
+- **AI-Development** — нейросети, компьютерное зрение и автоматизация.
+- **microcontrollers** — проекты для микроконтроллеров и эксперименты
+  с безопасностью IoT.
+- **SecureData-Suite** — курсовой проект по информационной безопасности.
+- **utils** — небольшие инструменты и утилиты.
 
 ^
 
