@@ -49,7 +49,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-### ИИ-инструменты
 
 **Основы веб-разработки**
 
